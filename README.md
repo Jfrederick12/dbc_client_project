@@ -1,10 +1,14 @@
-# dbc_client_project
-Dev Bootcamp client project for movie reviews web app
+http://fireballtrailers.com/wp-content/uploads/2015/07/domibachata.gif
 
-team name: Adventure Time
+Welcome to Movie Star!
+
+
+# Movie Star
+This is our first Dev Bootcamp client project. This web application uses the [IMDB API](https://www.omdbapi.com/) to pull in top movies from a variety of genres, and - as long as your are a Trusted Reviewer - can review films. 
+
 team members: Joan Petersohn, Waleeta Canon, Justin Frederick, Dennis Marchetti
 
-user stories:
+User stories:
 
   - new users can register
   - users can log in/out
@@ -14,3 +18,5 @@ user stories:
   - users can view all movies on the homepage
   - users can rate reviews
 
+# Take a look at it...
+[Here!](https://moviestarreviews.herokuapp.com/movies)
