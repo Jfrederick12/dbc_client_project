@@ -1,4 +1,6 @@
-http://fireballtrailers.com/wp-content/uploads/2015/07/domibachata.gif
+![alt text] (http://fireballtrailers.com/wp-content/uploads/2015/07/domibachata.gif "Logo")
+
+
 
 Welcome to Movie Star!
 
